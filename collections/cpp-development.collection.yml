@@ -1,0 +1,18 @@
+id: cpp-development
+name: C++ Development
+description: Comprehensive collection of tools and guidance for modern C++ development, featuring expert agents, specialized prompts, and best practice instructions for building high-quality C++ applications with emphasis on C++17/20 standards, design patterns, MCP server development, and concurrent programming.
+tags: [cpp, cpp17, cpp20, modern-cpp, software-engineering, design-patterns, concurrency, raii, mcp-servers, best-practices]
+items:
+  - path: instructions/cpp.instructions.md
+    kind: instruction
+  - path: prompts/expert-cpp-developer.prompt.md
+    kind: prompt
+  - path: prompts/cpp-design-pattern-review.prompt.md
+    kind: prompt
+  - path: agents/expert-cpp-software-engineer.agent.md
+    kind: agent
+  - path: agents/cpp-mcp-expert.agent.md
+    kind: agent
+display:
+  ordering: alpha
+  show_badge: false
