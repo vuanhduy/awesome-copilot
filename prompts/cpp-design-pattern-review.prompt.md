@@ -1,7 +1,6 @@
 ---
-mode: 'agent'
+agent: 'agent'
 description: 'Review C++ code for design pattern implementation and suggest improvements based on modern C++ best practices.'
-tools: ['search/codebase', 'edit/editFiles', 'problems']
 ---
 
 # C++ Design Pattern Review
